@@ -46,4 +46,6 @@ Multiple ML algorithm comparison
 Accuracy evaluation
 Cancer prediction
 
- Author  = Vaishnavi
+ ##Author  = Vaishnavi
+ #### Learning phase
+This project was practiced and implemented as part of my Machine Learning learning journey.
